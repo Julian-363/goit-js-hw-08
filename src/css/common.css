@@ -16,3 +16,17 @@ img {
   display: block;
   max-width: 100%;
 }
+
+ul {
+list-style: none;
+}
+
+.position {
+  display: flex;
+  justify-content: center;
+}
+
+.position0 {
+  display: flex;
+  justify-content: center;
+}
